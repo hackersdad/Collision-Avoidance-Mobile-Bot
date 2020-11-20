@@ -1,0 +1,10 @@
+# Collision-Avoidance-Mobile-Bot
+
+This was a Team Project. There were 5 team members. 
+This Project was given to us during Summer Training and Internship at IIT Kanpur.
+Topic of the training was: AI IoT and Robotics.
+
+Schematics of the project was given to us( uploaded here in this repository).
+We collected data manually that further will be used to train the Machine Learning Model and get weights for VL(Left wheel Velocity) and VR(Right wheel velocity)
+We used Raspberry Pi to control the PWM outputs of DC Motors using a python program.
+
